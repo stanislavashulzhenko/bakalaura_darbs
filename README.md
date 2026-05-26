@@ -1,4 +1,4 @@
-# Kod spēles prototipam
+# Kods spēles prototipam
 
 Saite uz spēli: https://prez-prasmju-att.netlify.app/
 
