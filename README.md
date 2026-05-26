@@ -2,6 +2,8 @@
 
 Saite uz spēli: https://prez-prasmju-att.netlify.app/
 
+Brīdinājums: Ja mākslīgā intelekta funkcijas ilgāku laiku nav izmantotas, serveris var būt "miega režīmā". Tāpēc pirmajos mēģinājumos MI funkcijas var neizveidoties un parādīt kļūdu. Ir nepieciešams atkārtot uzdevumu un palaist to otrreiz.
+
 achievments.js: Sasniegumu funkcionalitāte  
 index.html: Spēles darbs HTML lapā  
 main.js: Sākuma loģika spēlei, tiek ielādēti uzdevumi.  
